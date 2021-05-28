@@ -1,0 +1,1 @@
+# Sublime-reg_replace_rules_iso-8859-2_to_utf-8

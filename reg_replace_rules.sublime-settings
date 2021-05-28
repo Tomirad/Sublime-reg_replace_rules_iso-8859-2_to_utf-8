@@ -1,0 +1,131 @@
+{
+  "replacements": {
+    "letter_ly_small": {
+      "find": "³",
+      "replace": "ł",
+      "greedy": true,
+      "case": true
+    },
+    "letter_ly2_small": {
+      "find": "Ĺ",
+      "replace": "ł",
+      "greedy": true,
+      "case": true
+    },
+    "letter_zy_small": {
+      "find": "¿",
+      "replace": "ż",
+      "greedy": true,
+      "case": true
+    },
+    "letter_el_small": {
+      "find": "ê",
+      "replace": "ę",
+      "greedy": true,
+      "case": true
+    },
+    "letter_al_small": {
+      "find": "±",
+      "replace": "ą",
+      "greedy": true,
+      "case": true
+    },
+    "letter_zi_small": {
+      "find": "¼",
+      "replace": "ź",
+      "greedy": true,
+      "case": true
+    },
+    "letter_uo_small": {
+      "find": "ó",
+      "replace": "ó",
+      "greedy": true,
+      "case": true
+    },
+    "letter_uo_small": {
+      "find": "Ă",
+      "replace": "ó",
+      "greedy": true,
+      "case": true
+    },
+    "letter_si_small": {
+      "find": "¶",
+      "replace": "ś",
+      "greedy": true,
+      "case": true
+    },
+    "letter_ni_small": {
+      "find": "ñ",
+      "replace": "ń",
+      "greedy": true,
+      "case": true
+    },
+    "letter_ci_small": {
+      "find": "æ",
+      "replace": "ć",
+      "greedy": true,
+      "case": true
+    },
+
+    "letter_ly_big": {
+      "find": "£",
+      "replace": "Ł",
+      "greedy": true,
+      "case": true
+    },
+    "letter_zy_big": {
+      "find": "¯",
+      "replace": "Ż",
+      "greedy": true,
+      "case": true
+    },
+    "letter_el_big": {
+      "find": "Ê",
+      "replace": "Ę",
+      "greedy": true,
+      "case": true
+    },
+    "letter_al_big": {
+      "find": "¥",
+      "replace": "Ą",
+      "greedy": true,
+      "case": true
+    },
+    "letter_zi_big": {
+      "find": "",
+      "replace": "Ź",
+      "greedy": true,
+      "case": true
+    },
+    "letter_uo_big": {
+      "find": "Ó",
+      "replace": "Ó",
+      "greedy": true,
+      "case": true
+    },
+    "letter_si_big": {
+      "find": "¦",
+      "replace": "Ś",
+      "greedy": true,
+      "case": true
+    },
+    "letter_s2_big": {
+      "find": "Œ",
+      "replace": "Ś",
+      "greedy": true,
+      "case": true
+    },
+    "letter_ni_big": {
+      "find": "Ñ",
+      "replace": "Ń",
+      "greedy": true,
+      "case": true
+    },
+    "letter_ci_big": {
+      "find": "Æ",
+      "replace": "Ć",
+      "greedy": true,
+      "case": true
+    }
+  }
+}
